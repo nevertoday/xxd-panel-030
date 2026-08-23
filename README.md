@@ -45,11 +45,21 @@ XXD Panel 030 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **自然与编辑平衡：** 不完全对称、清晰重心、浅色背景和大量留白让画面鲜活但克制。
 - **轻量文字：** 一个简短标题和必要的微型注释与色域边缘、留白或一根枝叶方向对齐。
 
-## 样张 · 即将补充
+## 样张 · 来自 X
 
-项目已预留 [`assets/examples/`](assets/examples/) 样张目录。只有经项目作者确认、确实使用 030 完成的作品才会加入；在此之前不借用其他风格的推文或图片作为占位。
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090464374188310979) · 2026-08-20<br>
+> GPT2 x 植物 x 重构 x 美学提示词 x VOL.030
 
-未来样张只用于展示 030 对不同题材的适应力，不会把样张主体、留白比例、配色、文案或画幅变成生成参考或默认值。
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 030 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 030 样张 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 030 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 四种输出共享同一种自然材料拼合逻辑
 

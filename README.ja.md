@@ -45,11 +45,21 @@ XXD Panel 030 は、Codex と互換 Agent のための画像生成 Skill です�
 - **自然と編集の均衡：** 不完全な対称、明確な重心、淡い背景、大きな余白で、生き生きしながら抑制された画面にします。
 - **軽い文字：** 短い題名と必要な微注記を色面の縁、余白、一本の枝や葉の方向に合わせます。
 
-## 作例 · 近日追加
+## 作例 · X より
 
-リポジトリには将来の作例用に [`assets/examples/`](assets/examples/) を用意しています。プロジェクト作者が確認した 030 の完成作品だけを追加し、それまでは別スタイルの投稿や画像を代用しません。
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090464374188310979) · 2026-08-20<br>
+> GPT2 x 植物 x 重构 x 美学提示词 x VOL.030
 
-将来の作例は 030 の応用範囲を示すだけで、主体、余白比率、配色、文言、画角が生成参照や既定値になることはありません。
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 030 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 030 作例 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 030 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 4つの出力を支えるひとつの自然素材アサンブラージュロジック
 

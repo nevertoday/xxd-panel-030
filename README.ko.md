@@ -45,11 +45,21 @@ XXD Panel 030는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **자연과 편집의 균형:** 불완전한 대칭, 분명한 무게중심, 밝은 바탕과 넓은 여백이 생동감과 절제를 함께 만듭니다.
 - **가벼운 문구:** 짧은 제목과 필요한 미세 주석을 색면 가장자리, 여백 또는 한 줄기 가지와 잎 방향에 맞춥니다.
 
-## 예시 · 곧 추가됩니다
+## 예시 · X에서
 
-저장소에는 향후 예시를 위한 [`assets/examples/`](assets/examples/) 폴더가 마련되어 있습니다. 프로젝트 작성자가 확인한 030 완성작만 추가하며, 그전에는 다른 스타일의 게시물이나 이미지를 자리표시자로 쓰지 않습니다.
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090464374188310979) · 2026-08-20<br>
+> GPT2 x 植物 x 重构 x 美学提示词 x VOL.030
 
-향후 예시는 030의 적용 범위만 보여 줍니다. 예시의 주제, 여백 비율, 팔레트, 문구, 화면 비율은 생성 참조나 기본값이 되지 않습니다.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 030 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 030 예시 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 030의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 네 가지 출력, 하나의 자연 재료 아상블라주 논리
 

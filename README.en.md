@@ -45,11 +45,21 @@ If an unrelated photograph could replace the source without materially changing 
 - **Organic editorial balance:** credible flat-surface overlap, incomplete symmetry, clear weight, pale ground, and generous whitespace keep the work alive yet restrained.
 - **Lightweight copy:** one concise title and only useful micro-notes align with a field edge, open paper, or one twig, stem, or leaf direction.
 
-## Samples · Coming soon
+## Samples · From X
 
-The repository reserves [`assets/examples/`](assets/examples/) for future work. Only finished 030 artwork verified by the project owner will be added; no post or image from another style is used as a placeholder.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090464374188310979) · 2026-08-20<br>
+> GPT2 x 植物 x 重构 x 美学提示词 x VOL.030
 
-Future samples will demonstrate 030's adaptability. Their subjects, whitespace ratios, palette, copy, and canvas ratios will never become generation references or defaults.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 030 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 030 sample 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 030 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## Four outputs, one botanical-assemblage logic
 
