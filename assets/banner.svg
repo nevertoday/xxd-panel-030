@@ -1,0 +1,45 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>XXD Panel 030</title>
+  <desc>Editorial assemblage of a recognisable bird built from real leaves, petals, twigs, seeds, and fruit, mostly inside one quiet rectangular colour field with one natural directional crossing and minimal black line.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="400" rx="30"/></clipPath>
+    <filter id="organic" x="-12%" y="-12%" width="124%" height="124%"><feTurbulence type="fractalNoise" baseFrequency=".018" numOctaves="2" seed="30" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="2.4"/></filter>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#26372C" flood-opacity=".2"/></filter>
+    <pattern id="paper" width="36" height="31" patternUnits="userSpaceOnUse"><path d="M2 8L15 6M22 24L34 22M8 30L17 28" stroke="#405047" stroke-opacity=".07" stroke-width=".8"/></pattern>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="400" fill="#F4F0E6"/><rect width="1200" height="400" fill="url(#paper)"/>
+    <path d="M0 154H1200V323H0Z" fill="#D8E0C8"/>
+    <g transform="translate(885 113)" filter="url(#shadow)">
+      <path d="M32 123C74 84 137 75 190 107C153 142 104 167 45 161Z" fill="#728F52" filter="url(#organic)"/>
+      <path d="M69 132C99 94 135 82 175 94C152 122 119 145 82 151Z" fill="#A9B96B" opacity=".88"/>
+      <path d="M101 105C84 68 91 35 123 12C142 47 143 80 126 111Z" fill="#D98A8A" filter="url(#organic)"/>
+      <path d="M177 108C210 80 247 73 279 90C260 116 229 129 192 128Z" fill="#E8B75A" filter="url(#organic)"/>
+      <circle cx="188" cy="112" r="26" fill="#C95F45"/><circle cx="199" cy="105" r="3.8" fill="#18261F"/>
+      <path d="M211 111L238 119L213 127Z" fill="#DDAA3C"/>
+      <path d="M57 151C27 164 11 185 -6 222" stroke="#6B5039" stroke-width="8" stroke-linecap="round" filter="url(#organic)"/>
+      <path d="M97 160C112 184 126 203 147 225" stroke="#6B5039" stroke-width="7" stroke-linecap="round"/>
+      <path d="M142 225C155 215 167 212 181 215M143 225C158 229 170 236 180 246" stroke="#6B5039" stroke-width="5" stroke-linecap="round"/>
+      <path d="M46 117C25 95 5 87 -18 88" stroke="#1F2C24" stroke-width="2.2" stroke-linecap="round"/>
+      <path d="M21 77C5 62 -12 55 -29 58M14 83C-5 86 -20 93 -33 107" stroke="#5E7D46" stroke-width="7" stroke-linecap="round"/>
+      <ellipse cx="-29" cy="57" rx="21" ry="10" transform="rotate(-21 -29 57)" fill="#799958"/><ellipse cx="-35" cy="108" rx="23" ry="11" transform="rotate(24 -35 108)" fill="#90A965"/>
+      <circle cx="24" cy="191" r="8" fill="#8A593B"/><circle cx="5" cy="207" r="6" fill="#B97843"/><circle cx="42" cy="204" r="5" fill="#66513A"/>
+    </g>
+    <path d="M826 345C909 336 1011 349 1124 339" stroke="#1E2B24" stroke-width="1.7" stroke-dasharray="34 8 9 12"/>
+    <text x="830" y="332" fill="#1E2B24" font-family="Arial, sans-serif" font-size="14" letter-spacing="2.2">GROWN INTO FORM</text>
+  </g>
+  <g transform="translate(62 50)">
+    <rect width="229" height="34" rx="7" fill="#24382D"/><text x="17" y="22" fill="#F4F0E6" font-family="Arial, sans-serif" font-size="13" font-weight="900" letter-spacing="2">🦁 XXD / IMAGE SKILL</text>
+    <text x="0" y="112" fill="#24382D" font-family="Georgia, serif" font-size="67" font-weight="700" letter-spacing="-3">PANEL <tspan fill="#C95F45">030</tspan></text>
+    <text x="2" y="151" fill="#426448" font-family="Arial, sans-serif" font-size="18" font-weight="900" letter-spacing=".8">REAL BOTANICAL MATERIAL · NATURAL CROSSING</text>
+    <text x="2" y="196" fill="#24382D" font-family="sans-serif" font-size="18" font-weight="800">真实自然材料拼合 · 矩形色域 · 自然越界</text>
+    <text x="2" y="226" fill="#24382D" fill-opacity=".76" font-family="sans-serif" font-size="14" font-weight="700">本物の自然素材アサンブラージュ · 실제 자연 재료 아상블라주</text>
+    <text x="2" y="256" fill="#24382D" fill-opacity=".76" font-family="Arial, sans-serif" font-size="14" font-weight="700">تجميع تحريري من مواد طبيعية حقيقية</text>
+  </g>
+  <g transform="translate(62 327)">
+    <rect width="151" height="37" rx="7" fill="#24382D"/><text x="75.5" y="24" text-anchor="middle" fill="#F4F0E6" font-family="Courier New, monospace" font-size="12" font-weight="900">REAL MATERIAL</text>
+    <rect x="163" width="164" height="37" rx="7" fill="#C95F45"/><text x="245" y="24" text-anchor="middle" fill="#F4F0E6" font-family="Courier New, monospace" font-size="12" font-weight="900">MINIMAL BLACK</text>
+    <rect x="339" width="107" height="37" rx="7" fill="#A9B96B"/><text x="392.5" y="24" text-anchor="middle" fill="#24382D" font-family="Courier New, monospace" font-size="12" font-weight="900">4 MODES</text>
+    <rect x="458" width="180" height="37" rx="7" fill="#E8B75A"/><text x="548" y="24" text-anchor="middle" fill="#24382D" font-family="Courier New, monospace" font-size="12" font-weight="900">WALLPAPER PACK</text>
+  </g>
+</svg>
