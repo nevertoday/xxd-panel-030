@@ -22,6 +22,22 @@ XXD Panel 030 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 自然材料保留原本的形状、叶脉、纤维、透光、色差、卷曲、破损与不规则边缘。一块与当前源图协调的矩形色域建立秩序，但不画完整边框；主体大部分在内，只有真正具有方向感的一小段自然伸出。大量留白、不完全对称、极少黑线与轻量编辑文字，让自然材料的偶然性和版式纪律同时成立。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090464374188310979) · 2026-08-20<br>
+> GPT2 x 植物 x 重构 x 美学提示词 x VOL.030
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 030 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 030 样张 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 030 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 030
 
 普通“树叶拼贴”很容易退化成儿童手工、现成花束、精准裁切的植物几何形，或把任意装饰误当成自然巧思。
@@ -44,22 +60,6 @@ XXD Panel 030 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **材料接触可信：** 真实叠压、尺度、卷曲和轻微接触影说明材料平放在承载面上，不变成贴纸或塑料假叶。
 - **自然与编辑平衡：** 不完全对称、清晰重心、浅色背景和大量留白让画面鲜活但克制。
 - **轻量文字：** 一个简短标题和必要的微型注释与色域边缘、留白或一根枝叶方向对齐。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090464374188310979) · 2026-08-20<br>
-> GPT2 x 植物 x 重构 x 美学提示词 x VOL.030
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 030 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 030 样张 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 030 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

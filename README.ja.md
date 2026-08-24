@@ -22,6 +22,22 @@ XXD Panel 030 は、Codex と互換 Agent のための画像生成 Skill です�
 
 素材本来の輪郭、葉脈、繊維、透け、色差、巻き、裂け、不規則な縁を残します。元写真に調和する矩形色面が完全な枠線なしで秩序を作り、主体の大半は内側に、元写真が求める方向性のある一部だけが自然に外へ伸びます。大きな余白、不完全な対称、ほとんど使わない黒線、軽い編集文字が、自然の偶然性と版面の規律を両立させます。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090464374188310979) · 2026-08-20<br>
+> GPT2 x 植物 x 重构 x 美学提示词 x VOL.030
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 030 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 030 作例 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 030 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 030 が必要なのか
 
 一般的な「葉っぱコラージュ」は、子どもの工作、既製の花束、きれいに切りそろえた植物の幾何形、または自然の知性に見せかけた飾りへ崩れがちです。
@@ -44,22 +60,6 @@ XXD Panel 030 は、Codex と互換 Agent のための画像生成 Skill です�
 - **素材の接触：** 重なり、縮尺、巻き、柔らかな接触影で平面上の実物感を保ち、ステッカーや造花にしません。
 - **自然と編集の均衡：** 不完全な対称、明確な重心、淡い背景、大きな余白で、生き生きしながら抑制された画面にします。
 - **軽い文字：** 短い題名と必要な微注記を色面の縁、余白、一本の枝や葉の方向に合わせます。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090464374188310979) · 2026-08-20<br>
-> GPT2 x 植物 x 重构 x 美学提示词 x VOL.030
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 030 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 030 作例 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 030 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 

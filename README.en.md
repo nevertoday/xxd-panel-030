@@ -22,6 +22,22 @@ XXD Panel 030 is an image-generation Skill for Codex and compatible agents. It p
 
 The materials keep their native contours, veins, fibres, translucency, colour difference, curl, tears, and irregular edges. One simple source-harmonised rectangular colour or paper field establishes order without a complete border; most of the subject stays inside while one source-earned directional part grows naturally beyond it. Generous whitespace, incomplete symmetry, almost no black line, and lightweight editorial copy balance organic accident with graphic discipline.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090464374188310979) · 2026-08-20<br>
+> GPT2 x 植物 x 重构 x 美学提示词 x VOL.030
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 030 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 030 sample 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 030 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 “Leaf collage” easily collapses into children's craft, a stock floral arrangement, neatly clipped plant geometry, or arbitrary decoration mistaken for natural intelligence.
@@ -44,22 +60,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Almost no black line:** a fine hand mark may supply an eye, expression, connector, action cue, or rhythm, but never encloses the subject.
 - **Organic editorial balance:** credible flat-surface overlap, incomplete symmetry, clear weight, pale ground, and generous whitespace keep the work alive yet restrained.
 - **Lightweight copy:** one concise title and only useful micro-notes align with a field edge, open paper, or one twig, stem, or leaf direction.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090464374188310979) · 2026-08-20<br>
-> GPT2 x 植物 x 重构 x 美学提示词 x VOL.030
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 030 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 030 sample 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 030 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

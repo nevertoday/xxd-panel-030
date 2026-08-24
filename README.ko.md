@@ -22,6 +22,22 @@ XXD Panel 030는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 재료 본래의 윤곽, 잎맥, 섬유, 투명감, 색차, 말림, 찢김과 불규칙한 가장자리를 유지합니다. 원본과 조화로운 사각 색면 하나가 완전한 테두리 없이 질서를 만들고, 주제 대부분은 안에 머물며 원본이 요구하는 방향성 있는 일부만 자연스럽게 밖으로 자랍니다. 넓은 여백, 불완전한 대칭, 거의 없는 검은 선과 가벼운 편집 문구가 자연의 우연성과 지면의 규율을 함께 살립니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090464374188310979) · 2026-08-20<br>
+> GPT2 x 植物 x 重构 x 美学提示词 x VOL.030
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 030 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 030 예시 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 030의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 030이 필요한가요
 
 일반적인 ‘잎 콜라주’는 어린이 공예, 기성 꽃다발, 정교하게 잘라 낸 식물 기하형, 혹은 자연의 영리함으로 위장한 임의 장식으로 쉽게 무너집니다.
@@ -44,22 +60,6 @@ XXD Panel 030는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **재료 접촉의 신뢰성:** 겹침, 크기, 말림과 부드러운 접촉 그림자로 평면 위 실제 재료임을 보여 주며 스티커나 가짜 식물이 되지 않습니다.
 - **자연과 편집의 균형:** 불완전한 대칭, 분명한 무게중심, 밝은 바탕과 넓은 여백이 생동감과 절제를 함께 만듭니다.
 - **가벼운 문구:** 짧은 제목과 필요한 미세 주석을 색면 가장자리, 여백 또는 한 줄기 가지와 잎 방향에 맞춥니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090464374188310979) · 2026-08-20<br>
-> GPT2 x 植物 x 重构 x 美学提示词 x VOL.030
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 030 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 030 예시 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 030의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 
