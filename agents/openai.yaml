@@ -1,4 +1,4 @@
 interface:
   display_name: "/xxd-panel-030"
-  short_description: "Create real botanical-material editorial assemblages."
-  default_prompt: "Use $xxd-panel-030 to rebuild my photograph as one recognisable editorial assemblage made from visibly real leaves, petals, twigs, fruit, seeds, grasses, bark, or dried foliage, mostly held by one source-harmonised rectangular paper field with a natural directional crossing, generous whitespace, minimal black line, and lightweight native-script copy; ask first for modes and copy or locale preferences."
+  short_description: "Create Panel 030 from its original style brief."
+  default_prompt: "Use $xxd-panel-030; treat its bundled original style brief as the sole aesthetic authority, and ask only for unresolved mode, size, text mode, locale, or wallpaper settings."

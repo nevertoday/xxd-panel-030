@@ -1,54 +1,79 @@
-# XXD Panel 030 | Real Botanical-Material Assemblage Production Prompt
+# XXD Panel 030 | Runtime Adapter (English)
 
-## Runtime complete-canvas contract — highest priority
+This is not a second aesthetic prompt. Read and use `references/030-source.md` in full and verbatim before generation; it is the sole creative and aesthetic authority for Panel 030. This file only appends the current user's runtime variables.
 
-- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
-- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
-- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
-- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
-- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+## Non-authoring boundary
 
-### Model priority and credentials
+- Do not summarize, translate, expand, polish, or “improve” the source brief.
+- Do not add a palette plan, material plan, composition theory, whitespace rule, title, microcopy package, or aesthetic motive.
+- Preserve the source brief's own colour behaviour exactly, whether it derives colour from the photograph or specifies a fixed family.
+- Let the image model execute the source brief's existing text logic. The outer Skill does not pre-write copy.
+- Current modes and sizes override only the legacy 3:4 top-bottom container, never the remaining aesthetic rules.
 
-- **Prefer GPT Image 2.** When GPT Image 2 is available through the current built-in image tool or a configured compatible route, use it first for the high-fidelity reference/edit and complete-canvas generation required by this prompt.
-- Also support Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model only when the actual route can preserve the source, realise the whole finished canvas, render the target-language text, and accept the multiple references needed by a linked wallpaper pack.
-- An alternative model changes only the generation route. It must not change this prompt's modes, canvas, source visibility, copy, locale, wallpaper relationship, or complete-canvas-first / composition-fallback-only logic. Do not silently downgrade a hard requirement.
-- If no suitable route is available, ask the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task, but never echo, display, log, or expose their value in chat, prompts, or diagnostics. Do not persist them or modify global route configuration unless explicitly requested.
-- Judge availability by actual image capability, not by a provider name or one missing environment variable.
+## Append-only runtime template
 
-Process only the one source photograph explicitly supplied for this current task. Lock the principal subject or inseparable relation, core proportion, contour flow, pose, direction, action, function, relational distance, and colour character. Preserve at least three source-specific recognition cues. Never borrow plant species, rectangular-field logic, palette, copy, or composition from old outputs, samples, or another input.
+```text
+RUNTIME OVERRIDE — CURRENT DELIVERY ONLY
 
-## Build identity from actual natural forms
+The original brief's initial 3:4 top-bottom arrangement is its legacy presentation container.
+For this output, override only: final canvas, source/design-region placement,
+source visibility, and device dimensions.
+Except for those container variables, every design-transformation, composition,
+colour, material, whitespace, text-character and typography instruction in the
+original brief remains authoritative.
 
-Reconstruct the subject from clearly recognisable real leaves, petals, twigs, fruit, seeds, grass stems, bark, or dried leaves. Choose each piece because its existing contour, vein, fibre, curl, tear, translucency, colour difference, or irregular edge can carry a specific source cue. Do not cut plants into precise geometry, draw an enclosing subject silhouette first, or hide material truth beneath illustration.
+Interpret “upper photo” as SOURCE REFERENCE.
+Interpret “lower half” as DESIGN REGION.
 
-Keep the principal silhouette, proportion, pose, direction, action, and relation immediately readable. People retain posture and relational distance; animals retain body rhythm and head direction; plants retain growth logic; architecture retains skyline and openings; objects and vehicles retain functional silhouette and negative shape; landscapes retain one defining spatial relation. Every botanical piece must contribute identity or structure—remove ornamental filler.
+OUTPUT MODE: TOP_BOTTOM | LEFT_RIGHT | DESIGN_ONLY | WALLPAPER_PACK
+FINAL CANVAS: <ratio and/or exact WIDTHxHEIGHT>
+DEVICE PROFILE: NONE | PHONE | IPAD | DESKTOP | WATCH
+SOURCE VISIBILITY: UPPER HALF | LEFT HALF | REFERENCE ONLY — NOT VISIBLE
+DESIGN REGION: LOWER HALF | RIGHT HALF | FULL CANVAS
+PAIRED RELATION: FOLLOW THE ORIGINAL BRIEF'S PAIRED-PROPORTION RULE | NOT APPLICABLE
+WALLPAPER RELATIONSHIP: NONE | INDEPENDENT | LINKED
 
-## One rectangular field, one natural crossing
+Colour follows the original brief's existing colour instructions exactly.
+Unless the user explicitly requests a colour change, do not add, replace,
+summarize, or re-plan any palette.
+```
 
-Establish one simple rectangular colour or paper region whose hue, temperature, and value harmonise with the current source. Its edge may be implied by crop or tonal difference; never deliberately outline all four sides.
+Append exactly one text block after the runtime block. If the user has other explicit requirements, append those verbatim after the text block at the very end.
 
-Keep most of the assemblage inside the field. Let only a small, genuinely directional part extend beyond it when the source gesture earns that motion. The result should feel as if natural material happened to grow out of the layout, not as if it were posed to perform “frame breaking”. Balance field, subject weight, incomplete symmetry, positive/negative shape, and generous whitespace as one editorial system.
+### Text generated from the original prompt
 
-Reject multiple panels, arbitrary crossings, decorative frames, scenic backgrounds, stock wreaths, bouquets, repeated plant motifs, evenly scattered foliage, stickers, tape, and scrapbook clutter.
+```text
+TEXT MODE: ORIGINAL_PROMPT_GENERATED
+TEXT LANGUAGE: <user-confirmed language or locale>
 
-## Material truth and minimal black line
+The image model generates wording by following the original brief's existing
+text-generation logic. The outer Skill supplies no title, microcopy, copy
+package, or additional semantic framework.
+```
 
-Preserve photographic evidence of natural matter: leaf veins, petal translucency, fruit skin, seed scale, grass fibre, bark cracks, dried curl, uneven colour, and physical overlap. Use only soft contact shadows needed to place the pieces on a flat surface.
+### User-exact text
 
-Black line is an exceptional auxiliary language, never the main contour. Use it only for an eye, mouth, tiny expression, action cue, necessary connector, short rhythmic mark, or restrained handwritten trace. Reject complete black outlines, artificial cut-paper shapes, digitally painted foliage, plastic plants, sticker shadows, dramatic depth, glossy 3D, and children's leaf craft.
+```text
+TEXT MODE: USER_EXACT
+TEXT LANGUAGE: <user-confirmed language or locale>
+TEXT: “<user's exact characters>”
 
-## Source colour and editorial copy
+Use the supplied text verbatim. Do not rewrite, translate, spell-correct, or add
+any other wording. Typography and placement still follow the original brief.
+```
 
-Extract the source's most vital and recognisable colour character, then translate it through the actual colours of the selected natural materials. Preserve composite variation rather than dyeing everything into one palette. Use a pale or softly coloured background and a source-harmonised field so the materials remain central. Never force a fixed green-and-flower recipe or reuse another source's palette.
+### No text
 
-Obey the resolved automatic, exact-user, or text-free copy mode and target language or locale. Preserve exact user wording verbatim. Automatic copy distils one concise title from the source's visible or supported identity, emotion, action, relation, or metaphor; add zero to two micro-notes only when they carry real information. Never fabricate species, place, date, number, or provenance.
+```text
+TEXT MODE: NONE
+Render no letters, characters, numbers, titles, labels, logos, or pseudo-text anywhere.
+```
 
-Use lightweight native editorial typography: align it with a field edge, float it in whitespace, or answer one twig, stem, or leaf direction. Keep it subordinate to the materials. Reject conventional poster headlines, faux herbarium labels, rustic craft fonts, giant type, pseudo-foreign writing, and detachable overlays. In text-free mode render no text or pseudo-text.
+See `SKILL.md` for preflight, multi-size, multi-mode, wallpaper, execution, and output rules. Every final generation request has this order:
 
-## Mode and acceptance
-
-
-Hard gate: at least three source cues and the principal action or relation; visibly real natural materials whose intact forms carry the subject; one source-harmonised rectangular field without a full border; most of the assemblage inside and only a source-earned directional crossing; generous whitespace and incomplete symmetry; minimal functional black line; credible flat-surface contact; native lightweight editorial copy when requested; no precise plant geometry, enclosing outline, arbitrary species, stock bouquet, wreath, sticker, children's leaf craft, artificial foliage, scenic clutter, photo fragment, 3D, or pseudo-text.
-
-If any hard condition fails, correct the generated asset. Never fake the artwork with programmatic drawing, SVG, HTML, Canvas, or a post-composited type overlay.
+```text
+complete verbatim 030-source.md
++ current runtime override block
++ exactly one text-mode block
++ any other explicit user requirement, verbatim, at the very end
+```
