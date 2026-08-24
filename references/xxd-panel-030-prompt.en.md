@@ -1,5 +1,13 @@
 # XXD Panel 030 | Real Botanical-Material Assemblage Production Prompt
 
+## Runtime complete-canvas contract — highest priority
+
+- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
+- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
+- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
+- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
+- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+
 Process only the one source photograph explicitly supplied for this current task. Lock the principal subject or inseparable relation, core proportion, contour flow, pose, direction, action, function, relational distance, and colour character. Preserve at least three source-specific recognition cues. Never borrow plant species, rectangular-field logic, palette, copy, or composition from old outputs, samples, or another input.
 
 ## Build identity from actual natural forms
@@ -32,7 +40,6 @@ Use lightweight native editorial typography: align it with a field edge, float i
 
 ## Mode and acceptance
 
-Obey the appended `OUTPUT MODE`, `FINAL SIZE`, and `DESIGN FRAME`. Paired modes generate only the design half; design-only and wallpapers show no source photograph. Recompose every wallpaper for its device, never crop another device result, and render no system UI or mockup. A linked pack always references the original photo plus the same approved anchor and never chains derivatives.
 
 Hard gate: at least three source cues and the principal action or relation; visibly real natural materials whose intact forms carry the subject; one source-harmonised rectangular field without a full border; most of the assemblage inside and only a source-earned directional crossing; generous whitespace and incomplete symmetry; minimal functional black line; credible flat-surface contact; native lightweight editorial copy when requested; no precise plant geometry, enclosing outline, arbitrary species, stock bouquet, wreath, sticker, children's leaf craft, artificial foliage, scenic clutter, photo fragment, 3D, or pseudo-text.
 
