@@ -16,16 +16,7 @@
 
 </div>
 
-> REAL BOTANICAL MATERIAL · RECTANGULAR FIELD · NATURAL CROSSING · MINIMAL BLACK LINE · EDITORIAL WHITESPACE
-
-XXD Panel 030 is an image-generation Skill for Codex and compatible agents. It preserves the photograph's identity, proportion, contour flow, pose, direction, action, and relation, then rebuilds the subject from visibly real leaves, petals, twigs, fruit, seeds, grass stems, bark, or dried foliage.
-
-The materials keep their native contours, veins, fibres, translucency, colour difference, curl, tears, and irregular edges. One simple source-harmonised rectangular colour or paper field establishes order without a complete border; most of the subject stays inside while one source-earned directional part grows naturally beyond it. Generous whitespace, incomplete symmetry, almost no black line, and lightweight editorial copy balance organic accident with graphic discipline.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090464374188310979) · 2026-08-20<br>
-> GPT2 x 植物 x 重构 x 美学提示词 x VOL.030
 
 <table>
   <tr>
@@ -34,9 +25,18 @@ The materials keep their native contours, veins, fibres, translucency, colour di
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090464374188310979) · 2026-08-20<br>
+> GPT2 x 植物 x 重构 x 美学提示词 x VOL.030
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090464374188310979">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 030 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> REAL BOTANICAL MATERIAL · RECTANGULAR FIELD · NATURAL CROSSING · MINIMAL BLACK LINE · EDITORIAL WHITESPACE
+
+XXD Panel 030 is an image-generation Skill for Codex and compatible agents. It preserves the photograph's identity, proportion, contour flow, pose, direction, action, and relation, then rebuilds the subject from visibly real leaves, petals, twigs, fruit, seeds, grass stems, bark, or dried foliage.
+
+The materials keep their native contours, veins, fibres, translucency, colour difference, curl, tears, and irregular edges. One simple source-harmonised rectangular colour or paper field establishes order without a complete border; most of the subject stays inside while one source-earned directional part grows naturally beyond it. Generous whitespace, incomplete symmetry, almost no black line, and lightweight editorial copy balance organic accident with graphic discipline.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 030 right for you?
