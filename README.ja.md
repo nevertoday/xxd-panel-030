@@ -38,6 +38,12 @@ XXD Panel 030 は、Codex と互換 Agent のための画像生成 Skill です�
 
 素材本来の輪郭、葉脈、繊維、透け、色差、巻き、裂け、不規則な縁を残します。元写真に調和する矩形色面が完全な枠線なしで秩序を作り、主体の大半は内側に、元写真が求める方向性のある一部だけが自然に外へ伸びます。大きな余白、不完全な対称、ほとんど使わない黒線、軽い編集文字が、自然の偶然性と版面の規律を両立させます。
 
+## 原始プロンプト · 5言語
+
+[統一された多言語ディレクトリを開く](references/original-prompt/): [簡体字中国語原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+簡体字中国語ファイルは小小東の文言を逐語で保存し、実行時の唯一の美的基準です。他の4言語は海外の読者が読み、共有するための忠実な翻訳であり、画像生成プロンプトを書き換えません。
+
 <!-- xxd-panel-benefit:start -->
 ## すぐに判断：XXD Panel 030 はあなたに合う？
 
@@ -74,7 +80,7 @@ XXD Panel 030 は、Codex と互換 Agent のための画像生成 Skill です�
 
 ## 原文プロンプトを唯一の美的基準にする
 
-`references/030-source.md` が、このプロジェクト唯一の創作・美的基準です。Skill は原文を要約・拡張せず、共通の配色計画、美的動機、タイトル、マイクロコピーを追加しません。色、素材、構図、余白、言葉、タイポグラフィは、GPT Image 2 が原文プロンプトの規則どおりに実行します。
+`references/original-prompt/zh-CN.md` が、このプロジェクト唯一の創作・美的基準です。Skill は原文を要約・拡張せず、共通の配色計画、美的動機、タイトル、マイクロコピーを追加しません。色、素材、構図、余白、言葉、タイポグラフィは、GPT Image 2 が原文プロンプトの規則どおりに実行します。
 
 モードとサイズは、原文の変換美学を変えずに、旧来の 3:4 上下出力コンテナを完全に置き換えます。各成果物では選択された一つのモード契約だけを GPT Image 2 に送り、四つの候補を一つの汎用テンプレート内で解釈させません。
 
@@ -221,7 +227,7 @@ $xxd-panel-030
 - [Skill ワークフロー](SKILL.md)
 - [中国語ランタイムアダプター](references/xxd-panel-030-prompt.zh-CN.md)
 - [英語ランタイムアダプター](references/xxd-panel-030-prompt.en.md)
-- [元のスタイル指示](references/030-source.md)
+- [元のスタイル指示](references/original-prompt/zh-CN.md)
 
 ## 境界と信頼性
 
