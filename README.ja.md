@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 030
+# 🦁 XXD Panel 030｜自然のはみ出し
 
 ### 写真を、本物の葉、花びら、枝、実、種、草、樹皮で組み直す
 
