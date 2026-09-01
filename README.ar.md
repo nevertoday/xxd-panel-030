@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="لافتة مشروع XXD Panel 030" width="1200">
-</p>
-
 <div align="center" dir="rtl">
 
 # 🦁 XXD Panel 030｜طبيعة بلا حدود
@@ -318,7 +314,6 @@ xxd-panel-030/
 ├── SKILL.md
 ├── README.md / README.en.md / README.ja.md / README.ko.md / README.ar.md
 ├── agents/openai.yaml
-├── assets/banner.svg + examples/ (محجوز لنماذج محلية مستقبلية)
 ├── scripts/compose_panel.py + configured_imagegen.py
 └── references/xxd-panel-030-prompt.zh-CN.md + xxd-panel-030-prompt.en.md + 030-source.md
 ```
