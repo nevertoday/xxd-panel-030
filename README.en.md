@@ -80,6 +80,15 @@ You do not need to review every option first. Send your Agent an image and say:
 The samples above can help you confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [Open the unified translation directory](references/original-prompt/): [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -96,29 +105,6 @@ The Simplified Chinese file preserves Xiaoxiaodong's wording verbatim and remain
 | **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
 | **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
 <!-- xxd-panel-benefit:end -->
-
-## How it turns your source into a distinctive result
-
-“Leaf collage” easily collapses into children's craft, a stock floral arrangement, neatly clipped plant geometry, or arbitrary decoration mistaken for natural intelligence.
-
-030 reverses that logic:
-
-```text
-lock identity / proportion / gesture / relation → choose real natural forms that can carry specific source cues → preserve their uncut material evidence → establish one source-harmonised rectangular field without a full border → keep most of the subject inside → let one genuinely directional part grow beyond it → balance incomplete symmetry and generous whitespace → add only functional black marks and lightweight editorial copy
-```
-
-If an unrelated photograph could replace the source without materially changing material choice, subject contour, gesture, rectangular-field relation, natural crossing, colour character, or type alignment, the result is not 030.
-
-## What makes the finished style recognizable
-
-- **Source identity:** at least three specific cues preserve proportion, contour flow, pose, direction, action, function, and relation.
-- **Source identity:** at least three specific cues preserve proportion, contour flow, pose, direction, action, function, and relation.
-- **Actual natural forms:** leaves, petals, twigs, fruit, seeds, grasses, bark, and dried foliage remain visibly real; their native edges and textures build the subject rather than fill a drawn outline.
-- **One rectangular field:** source-harmonised colour and implied edges create order without deliberately drawing all four sides.
-- **Source-earned crossing:** most of the subject stays within the field; only a small directional part crosses because the original action or contour calls for it.
-- **Almost no black line:** a fine hand mark may supply an eye, expression, connector, action cue, or rhythm, but never encloses the subject.
-- **Organic editorial balance:** credible flat-surface overlap, incomplete symmetry, clear weight, pale ground, and generous whitespace keep the work alive yet restrained.
-- **Lightweight copy:** one concise title and only useful micro-notes align with a field edge, open paper, or one twig, stem, or leaf direction.
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
