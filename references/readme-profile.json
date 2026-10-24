@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 030｜Nature Unbound: rebuilds the subject of a photo as an editorial illustration assembled from real, clearly recognisable natural materials — leaves, petals, twigs, fruit, seeds, grass stems, bark and dried leaves — using their own shapes, textures and irregular edges rather than cutting them into neat geometry or outlining them, set mostly inside a simple rectangular colour field or paper area (no drawn frame) with a few directional parts growing naturally past its edge, wide whitespace on a pale ground, only a few thin, loose black hand-drawn marks for eyes, mouth, small gestures or links, and a short title with a few tiny notes aligned to a twig or leaf. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-030 or asks for botanical collage illustration, pressed-leaf and petal art or natural-material assemblage from a photo.",
+  "short_description": "自然越界：用真实的叶片、花瓣、枝条、果实和树皮拼出照片主体，少量自然伸出色域",
+  "zh-CN": {
+    "name": "自然越界",
+    "tagline": "用真实的叶片、花瓣、枝条、果实、种子、草茎和树皮，把照片主体重新拼出来。",
+    "look": "主体由清晰可辨的天然材料拼合而成，直接利用叶片、花瓣、果实和枯枝本来的形状、纹理、色差和不规则边缘，不切成规整几何，也不用插画轮廓包住；你既认得出原来的主体，也看得清它是植物拼成的。画面有一块简洁的矩形色域或纸面区域，但不画完整边框，主体大部分在里面，少量最有方向感的部分自然伸出边界，像植物恰好从版面里长出来。黑色线条只出现极少几笔，用于眼睛、嘴巴、细小动作或连接。背景是与原图协调的浅色，文字是一个短标题加几行微型注释，贴近色域边缘或顺着一根枝条的方向。",
+    "traits": [
+      "叶片花瓣",
+      "枝条果实",
+      "自然材料",
+      "越界",
+      "编辑留白"
+    ],
+    "good": [
+      "轮廓好认的动物：一只鸟、一只狐狸、一只猫、一条鱼",
+      "姿态清楚的人：跑步的人、跳舞的人、坐着看书的人",
+      "形状简单的物件和建筑：一辆自行车、一把茶壶、一座小房子"
+    ],
+    "poor": [
+      "需要准确还原长相或精细结构的图：证件照、机械、电子产品",
+      "想要完整黑色描边、卡通拼贴或儿童树叶贴画效果的需求",
+      "希望材料被切成规整几何色块的设计"
+    ]
+  },
+  "en": {
+    "name": "Nature Unbound",
+    "tagline": "Rebuilds the subject of a photo from real leaves, petals, twigs, fruit, seeds, grass stems and bark.",
+    "look": "The subject is assembled from clearly recognisable natural materials, using the real shapes, textures, colour variation and irregular edges of leaves, petals, fruit and dry twigs, never cut into neat geometry or wrapped in an illustrated outline; you recognise the original subject and can also see plainly that it is made of plants. A simple rectangular colour field or paper area organises the page without a drawn frame: most of the subject sits inside, while a few of its most directional parts grow naturally past the edge, as if the plants happened to spill out of the layout. Black line appears only in a few strokes, for eyes, a mouth, a small gesture or a link. The ground is a pale tone that suits the photo, and text is a short title with a few tiny notes near the field's edge or following the line of a twig.",
+    "traits": [
+      "Leaves and petals",
+      "Twigs and fruit",
+      "Natural materials",
+      "Breaking the edge",
+      "Editorial whitespace"
+    ],
+    "good": [
+      "Animals with an easy outline: a bird, a fox, a cat, a fish",
+      "People in a clear pose: someone running, dancing, or sitting with a book",
+      "Simple objects and buildings: a bicycle, a teapot, a small house"
+    ],
+    "poor": [
+      "Images that need exact likeness or fine structure: ID photos, machinery, electronics",
+      "Requests for full black outlines, cartoon collage or a children's leaf-craft look",
+      "Designs that want the materials cut into neat geometric blocks"
+    ]
+  },
+  "ja": {
+    "name": "自然のはみ出し",
+    "tagline": "本物の葉、花びら、小枝、果実、種、草の茎、樹皮で、写真の主役を組み立て直します。",
+    "look": "主役は見てすぐそれとわかる天然素材を組み合わせてつくります。葉、花びら、果実、枯れ枝がもともと持つ形、模様、色の差、不規則な縁をそのまま生かし、整った幾何学形に切ったり、イラストの輪郭で囲んだりはしません。元の主役だとわかると同時に、植物でできていることもはっきり見えます。画面にはシンプルな長方形の色面か紙の領域がありますが、枠線は描きません。主役の大部分はその中にあり、いちばん方向性のある部分だけが自然に境界の外へ伸び、植物がたまたま誌面から生え出したように見えます。黒い線はほんの数筆だけで、目、口、小さなしぐさ、つなぎに使います。背景は写真に合う淡い色で、文字は短いタイトルとごく小さな注記を数行、色面の縁の近くや小枝の向きに沿わせて置きます。",
+    "traits": [
+      "葉と花びら",
+      "小枝と果実",
+      "自然素材",
+      "はみ出し",
+      "編集的な余白"
+    ],
+    "good": [
+      "輪郭のわかりやすい動物：鳥、キツネ、猫、魚",
+      "ポーズのはっきりした人：走る人、踊る人、座って本を読む人",
+      "形のシンプルなモノや建物：自転車、ティーポット、小さな家"
+    ],
+    "poor": [
+      "顔立ちや細かな構造を正確に再現したい画像：証明写真、機械、電子機器",
+      "黒い輪郭線でしっかり囲む表現、マンガ風コラージュ、子どもの落ち葉工作のような仕上がりを求める場合",
+      "素材を整った幾何学的な色面に切ってほしいデザイン"
+    ]
+  },
+  "ko": {
+    "name": "자연의 경계 넘기",
+    "tagline": "진짜 잎, 꽃잎, 잔가지, 열매, 씨앗, 풀줄기, 나무껍질로 사진의 주인공을 다시 짜 맞춥니다.",
+    "look": "주인공은 한눈에 알아볼 수 있는 천연 재료를 맞추어 만듭니다. 잎, 꽃잎, 열매, 마른 가지가 본래 지닌 모양, 무늬, 색 차이, 불규칙한 가장자리를 그대로 살리고, 반듯한 기하 도형으로 자르거나 일러스트 윤곽선으로 감싸지 않습니다. 원래 주인공을 알아볼 수 있으면서 식물로 만들어졌다는 것도 분명히 보입니다. 화면에는 간결한 직사각형 색면이나 종이 영역이 있지만 테두리는 그리지 않습니다. 주인공 대부분은 그 안에 있고, 방향감이 가장 강한 일부만 자연스럽게 경계 밖으로 뻗어, 식물이 마침 지면에서 자라 나온 듯 보입니다. 검은 선은 몇 획만 쓰며 눈, 입, 작은 몸짓, 연결에 씁니다. 배경은 사진과 어울리는 연한 색이고, 글자는 짧은 제목과 아주 작은 메모 몇 줄로 색면 가장자리 가까이나 잔가지 방향을 따라 둡니다.",
+    "traits": [
+      "잎과 꽃잎",
+      "잔가지와 열매",
+      "천연 재료",
+      "경계 넘기",
+      "편집 여백"
+    ],
+    "good": [
+      "윤곽이 알아보기 쉬운 동물: 새, 여우, 고양이, 물고기",
+      "자세가 분명한 사람: 달리는 사람, 춤추는 사람, 앉아서 책 읽는 사람",
+      "형태가 단순한 사물과 건물: 자전거, 찻주전자, 작은 집"
+    ],
+    "poor": [
+      "생김새나 세밀한 구조를 정확히 살려야 하는 이미지: 증명사진, 기계, 전자 제품",
+      "검은 윤곽선을 빈틈없이 두른 표현, 만화식 콜라주, 아이들 낙엽 붙이기 느낌을 원하는 경우",
+      "재료를 반듯한 기하 색면으로 잘라 주길 원하는 디자인"
+    ]
+  },
+  "ar": {
+    "name": "طبيعة بلا حدود",
+    "tagline": "يعيد بناء عنصر الصورة من أوراق شجر وبتلات وأغصان وثمار وبذور وسيقان عشب ولحاء حقيقية.",
+    "look": "يُركَّب العنصر من مواد طبيعية واضحة يمكن التعرّف عليها، مستفيداً من الأشكال الحقيقية لأوراق الشجر والبتلات والثمار والأغصان الجافة وملمسها وتفاوت ألوانها وحوافها غير المنتظمة، من دون قصّها إلى أشكال هندسية مرتبة ولا إحاطتها بخطوط مرسومة؛ فتعرف العنصر الأصلي وترى بوضوح أنه مصنوع من النبات. تنظّم الصفحةَ مساحةٌ لونية مستطيلة بسيطة أو منطقة ورقية بلا إطار مرسوم: يقع معظم العنصر داخلها، وتمتد بعض أجزائه الأكثر اتجاهاً خارج حدها بشكل طبيعي، كأن النبات خرج من التصميم مصادفة. لا يظهر الخط الأسود إلا في ضربات قليلة للعينين أو الفم أو حركة صغيرة أو وصلة. الأرضية لون فاتح يلائم الصورة، والنص عنوان قصير مع ملاحظات صغيرة قليلة قرب حافة المساحة أو في اتجاه غصن.",
+    "traits": [
+      "أوراق وبتلات",
+      "أغصان وثمار",
+      "مواد طبيعية",
+      "تجاوز الحافة",
+      "فراغ تحريري"
+    ],
+    "good": [
+      "حيوانات سهلة الحدود: طائر، ثعلب، قطة، سمكة",
+      "أشخاص في وضعية واضحة: شخص يركض أو يرقص أو يجلس مع كتاب",
+      "أشياء ومبانٍ بسيطة: دراجة، إبريق شاي، بيت صغير"
+    ],
+    "poor": [
+      "صور تحتاج إلى شبه دقيق أو بنية دقيقة: صور الهوية، الآلات، الأجهزة الإلكترونية",
+      "طلب حدود سوداء كاملة أو ملصقة كرتونية أو مظهر أشغال الأطفال بأوراق الشجر",
+      "تصاميم تريد قصّ المواد إلى كتل هندسية مرتبة"
+    ]
+  }
+}
